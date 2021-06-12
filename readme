@@ -1,0 +1,10 @@
+//To play you enter a number coresponding to the grid 
+1|2|3 
+-+ +-
+4|5|6
+-+-+-
+7|8|9
+
+//get three in a row and you win
+//this is a simple tic tac toe game you play vs an ai (the computer)
+//you can either win, tie, or lose
